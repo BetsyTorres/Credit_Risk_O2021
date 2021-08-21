@@ -1,0 +1,21 @@
+timestamp,age,operative_system,programming_languages,python_proficiency,neural_networks_experience,academic_interest,higher_education,currently_working,fintech_industry_interest,expected_income_after_graduation,expected_income_after_5y
+8/17/2021 21:16:45,23,Mac OS,Python,2,No,Yes,Not sure,Yes,Maybe,"18,000+","30,000+"
+8/17/2021 21:17:10,22,Windows,"Python, R",3,No,Maybe,Yes: Master Degree,Yes,Yes,40000,500000
+8/17/2021 21:17:29,22,Mac OS,"Matlab/Octave, Python",2,No,Maybe,Not sure,Yes,No,16000,25000
+8/17/2021 21:17:36,22,Windows,"Matlab/Octave, Python",3,Yes,Maybe,Yes: Master Degree,No,Yes,12000,400000
+8/17/2021 21:18:21,21,Mac OS,"Matlab/Octave, Python, R",3,Yes,Yes,Yes: Master Degree,Yes,Yes,"20,000","40,000"
+8/17/2021 21:18:38,23,Mac OS,"Matlab/Octave, Python",2,No,No,Not sure,Yes,Yes,15000,40000
+8/17/2021 21:18:52,23,Mac OS,"Matlab/Octave, Python",3,Yes,Maybe,Yes: Master Degree,Yes,Yes,12000,30000
+8/17/2021 21:19:11,22,Windows,Python,3,No,Yes,Yes: Master Degree,Yes,Yes,30000,50000
+8/17/2021 21:19:37,22,Mac OS,"Matlab/Octave, Python, R",3,Yes,Maybe,Yes: PhD,Yes,Yes,20000,50000
+8/17/2021 21:19:53,22,Mac OS,"Matlab/Octave, Python, R",4,Yes,Yes,Yes: PhD,Yes,Yes,1500,10000
+8/17/2021 21:19:53,22,Mac OS,"Matlab/Octave, Python",2,Yes,Maybe,Not sure,Yes,No,10000,40000
+8/17/2021 21:20:18,22,Windows,Python,2,No,Maybe,Yes: Master Degree,Yes,Yes,20000,50000
+8/17/2021 21:20:33,23,Windows,"Matlab/Octave, Python",2,No,Yes,Not sure,Yes,Maybe,20000,80000
+8/17/2021 21:20:42,22,Windows with WSL,"Matlab/Octave, JavaScript, Python, Java, R, PHP, C#, VBA, M, typescript counts?",4,Yes,Yes,Yes: PhD,Yes,Maybe,30000,70000
+8/17/2021 21:21:22,21,Windows,"Matlab/Octave, Python, R",3,Yes,No,Yes: Master Degree,No,Yes,10000,20000
+8/17/2021 21:22:05,23,Windows,"Wolfram Mathematica, Matlab/Octave, Python, R, SQL",4,Yes,Yes,Yes: PhD,Yes,Yes,40000,100000
+8/17/2021 21:22:24,22,Windows,"Matlab/Octave, Python, R",3,No,Maybe,Yes: PhD,No,Maybe,12000-15000,28000+
+8/17/2021 21:23:25,22,Mac OS,"Wolfram Mathematica, Matlab/Octave, JavaScript, Python, Java",3,Yes,Maybe,Not sure,Yes,Yes,20000,70000+
+8/17/2021 21:24:57,21,Windows,"Wolfram Mathematica, Matlab/Octave, Python, R",3,Yes,Maybe,Not sure,No,Maybe,20000,80000
+8/17/2021 21:25:57,22,Windows,"Matlab/Octave, Python",2,No,Yes,Yes: Master Degree,No,Yes,15000,60000
